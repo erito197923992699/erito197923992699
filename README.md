@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 
 Hello, I'm Eriberto Gonzalez II
 
-
-[Brief Introduction - Remove this afterwards]
-
 I am It Professional with over 20 years of Experiance, but currently studing Cybersecurity with a profound interest in technology and a dedication to solving complex problems.
 
 Objective:
